@@ -1,0 +1,15 @@
+C:\Users\Prince\source\repos\Nexzoz\Nexzoz.API\bin\Debug\netcoreapp2.1\Nexzoz.API.deps.json
+C:\Users\Prince\source\repos\Nexzoz\Nexzoz.API\bin\Debug\netcoreapp2.1\Nexzoz.API.runtimeconfig.json
+C:\Users\Prince\source\repos\Nexzoz\Nexzoz.API\bin\Debug\netcoreapp2.1\Nexzoz.API.runtimeconfig.dev.json
+C:\Users\Prince\source\repos\Nexzoz\Nexzoz.API\bin\Debug\netcoreapp2.1\Nexzoz.API.dll
+C:\Users\Prince\source\repos\Nexzoz\Nexzoz.API\bin\Debug\netcoreapp2.1\Nexzoz.API.pdb
+C:\Users\Prince\source\repos\Nexzoz\Nexzoz.API\obj\Debug\netcoreapp2.1\Nexzoz.API.csprojAssemblyReference.cache
+C:\Users\Prince\source\repos\Nexzoz\Nexzoz.API\obj\Debug\netcoreapp2.1\Nexzoz.API.csproj.CoreCompileInputs.cache
+C:\Users\Prince\source\repos\Nexzoz\Nexzoz.API\obj\Debug\netcoreapp2.1\Nexzoz.API.RazorAssemblyInfo.cache
+C:\Users\Prince\source\repos\Nexzoz\Nexzoz.API\obj\Debug\netcoreapp2.1\Nexzoz.API.RazorAssemblyInfo.cs
+C:\Users\Prince\source\repos\Nexzoz\Nexzoz.API\obj\Debug\netcoreapp2.1\Nexzoz.API.AssemblyInfoInputs.cache
+C:\Users\Prince\source\repos\Nexzoz\Nexzoz.API\obj\Debug\netcoreapp2.1\Nexzoz.API.AssemblyInfo.cs
+C:\Users\Prince\source\repos\Nexzoz\Nexzoz.API\obj\Debug\netcoreapp2.1\Nexzoz.API.RazorTargetAssemblyInfo.cache
+C:\Users\Prince\source\repos\Nexzoz\Nexzoz.API\obj\Debug\netcoreapp2.1\Nexzoz.API.dll
+C:\Users\Prince\source\repos\Nexzoz\Nexzoz.API\obj\Debug\netcoreapp2.1\Nexzoz.API.pdb
+C:\Users\Prince\source\repos\Nexzoz\Nexzoz.API\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
